@@ -1,0 +1,125 @@
+/* body{
+    background: #96d0ff;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+button{
+    font-family: Arial, Helvetica, sans-serif;
+    background: #96d0ff;
+    border: 0;
+    padding-right: 60px;
+    padding-left: 60px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+div{
+    border: 20px black;
+}
+
+#banner{
+    background-color: white;
+	color: white;
+	padding: 0.4em;
+    margin: 0em;
+    position: right;
+    box-shadow: 0px 10px #3c4d5a;
+}
+
+h1{
+    text-align: center;
+    padding-top: 4px;
+}
+
+#form{
+    background: white;
+    text-align: center;
+    border: 20em;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.icons{
+    padding: 2%;
+} */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: rgb(122, 182, 250);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header{
+    text-align: right;
+    background: white;
+    padding: 25px 10px;
+    border-bottom: 1px solid grey;
+    margin-bottom: 75px;
+    box-shadow: 0px 3px 5px rgb(46, 19, 19);
+}
+
+#header a{
+    padding: 8px 20px;
+    margin: 10px;
+    background: rgb(122, 182, 250);
+    text-decoration: none;
+    border-radius: 5px;
+    border: 1px solid gray;
+    color: white;
+}
+
+#form{
+    width: 300px;
+    margin: auto;
+    padding: 30px 25px;
+    background: white;
+    border: 1px solid gray;
+    border-radius: 5px;
+    box-shadow: 0px 3px 5px black;
+}
+#form h2{
+    margin: 10px;
+}
+
+#inputDiv{
+    text-align: center;
+}
+
+#inputDiv input{
+    width: 90%;
+    margin: 13px 0px;
+    padding: 7px;
+    outline: none;
+    border: 1px solid gray;
+    border-radius: 3px;
+}
+#submit{
+    width: 95%;
+    margin-bottom: 5px;
+    background: rgb(122, 182, 250);
+    color: white;
+    border: 1px solid gray;
+    padding: 6px;
+    border-radius: 3px;
+}
+
+#image{
+    text-align: center;
+    margin-top: 30px;
+}
+
+#image a{
+    text-decoration: none;
+}
+
+#image img{
+    width: 30px;
+    height: 30px;
+    border-radius: 25px;
+    margin: 0px 5px;
+}
